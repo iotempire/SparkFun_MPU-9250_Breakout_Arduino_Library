@@ -8,6 +8,7 @@
 #ifndef _MPU9250_H_
 #define _MPU9250_H_
 
+#include <Arduino.h> // enable Serial on esp32
 #include <SPI.h>
 #include <Wire.h>
 
